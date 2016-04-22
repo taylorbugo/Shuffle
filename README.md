@@ -4,3 +4,8 @@ Simple program that outputs 1->N integers in pseudo-random order. Could be updat
 Example of coding.
 
 Built using Visual Studio 2015
+
+Shuffle
+
+Implement the following program named Shuffle:
+Output the integers 1....N in random order.
